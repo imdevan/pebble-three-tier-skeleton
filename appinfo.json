@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "huapayadevan@gmail.com",
+    "longName": "Three Tier App",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Three Tier App",
+    "uuid": "7aa88303-d615-4dc0-88f5-540c82653c04",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
